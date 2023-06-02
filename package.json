@@ -1,7 +1,7 @@
 {
   "name": "wavlibrary",
   "version": "1.0.0",
-  "description": "library of wav files bu user",
+  "description": "library of wav files by user",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
